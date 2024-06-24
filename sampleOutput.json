@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "'It's over': Donald Trump trounces Nikki Haley and turns to contest against Joe Biden - Financial Times",
+            "description": "Former president faces a battle to broaden his appeal beyond his loyal base",
+            "url": "https://www.ft.com/content/3802e73f-29a9-411f-8410-c67eaeafbf7c",
+            "urlToImage": null,
+            "publishedAt": "2024-03-06T16:42:48Z",
+            "content": "Then $199 for 12 months. Insight and expertise in your hands with the iconic FT print edition, delivered Monday to Saturday."
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dino Grandoni",
+            "title": "Scientists say they're a step closer to reviving mammoths. What could go wrong? - The Washington Post",
+            "description": "The plan is to bring back the woolly mammoth — or at least a version of it — is ambitious but raises hairy questions.",
+            "url": "https://www.washingtonpost.com/climate-environment/2024/03/06/scientists-say-theyre-step-closer-reviving-mammoths-what-could-go-wrong/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VKXDI3336BCR2FCBKXRJQI66LM_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-03-06T16:38:43Z",
+            "content": "A company aiming to bring extinct animals back from the dead said it has taken an elephant-sized step toward genetically resurrecting the woolly mammoth, a wild if contentious goal to repopulate the … [+6662 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Rate cuts likely at 'some point' this year: Fed's Powell - Yahoo Finance",
+            "description": null,
+            "url": "https://finance.yahoo.com/news/rate-cuts-likely-at-some-point-this-year-feds-powell-133004964.html",
+            "urlToImage": null,
+            "publishedAt": "2024-03-06T15:25:31Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOEAL CALUPITAN, AARON FAVILA",
+            "title": "The Philippines says it won't let China remove a Filipino military outpost on a disputed shoal - The Associated Press",
+            "description": "The Philippine navy says it will not allow China to remove a Philippine military outpost in a fiercely disputed South China Sea shoal where four Filipino navy personnel were injured in a confrontation between Chinese and Philippine ships. Philippine officials…",
+            "url": "https://apnews.com/article/south-china-sea-philippines-tension-clash-thomas-5024df819b8ae87b99c24e179f9da774",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ab03d99/2147483647/strip/true/crop/3872x2178+0+202/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2Fe4%2Fba54e82c236080a99711caa867cc%2F2cb6ac61b4ef4436b6a185cda2480a45",
+            "publishedAt": "2024-03-06T15:23:00Z",
+            "content": "ABOARD BRP SINDANGAN (AP) The Philippines will not allow China to remove a Philippine military outpost in a fiercely disputed South China Sea shoal, a navy official said Wednesday, a day after four F… [+5740 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Nektaria Stamouli, Veronika Melkozerova",
+            "title": "Explosion rocks Odesa near where Zelenskyy was meeting Greek PM - POLITICO Europe",
+            "description": "A ballistic missile blast occurred just a few hundred meters away from the leaders’ motorcade.",
+            "url": "https://www.politico.eu/article/explosion-rocks-odesa-near-where-zelenskyy-meeting-greek-pm/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/03/06/GettyImages-2048571292-scaled.jpg",
+            "publishedAt": "2024-03-06T15:04:00Z",
+            "content": "Authorities are investigating the cause of the blast. Odesa has been under Russian fire since the start of Moscow’s full-scale invasion of Ukraine in February 2022. \r\nThe meeting between Zelenskyy an… [+793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Stephanie Webber",
+            "title": "'Sister Wives' star Meri Brown speaks out on death of Kody and Janelle's son Garrison at 25 - New York Post ",
+            "description": "“Sister Wives” star Meri Brown paid tribute to Kody and Janelle Brown’s son Garrison, who died on March 5.",
+            "url": "https://nypost.com/2024/03/06/entertainment/sister-wives-meri-brown-speaks-out-death-of-garrison-at-25/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/77803380.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-03-06T15:01:00Z",
+            "content": "Showing her support.\r\n“Sister Wives” star Meri Brown paid tribute to Kody and Janelle Brown’s son Garrison, who died on March 5. He was 25.\r\n“Our family is deeply saddened to announce the loss of our… [+2114 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Norman",
+            "title": "German man received 217 coronavirus vaccine shots over a 29-month period, study says - Fox News",
+            "description": "A German man, acting against the recommendations of national health authorities, received 217 coronavirus vaccine shots from 2021 to 2023, a study says.",
+            "url": "https://www.foxnews.com/world/german-man-received-217-coronavirus-vaccine-shots-over-29-month-period-study-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Coronavirus-vaccine-Germany.jpg",
+            "publishedAt": "2024-03-06T14:23:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+3384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Report: Google Tensor G4 to improve heat management and power efficiency - 9to5Google",
+            "description": "According to a report out of Korea, Google Tensor G4 will be utilizing Samsung's latest methods to improve on heat and power efficiency.",
+            "url": "http://9to5google.com/2024/03/06/google-tensor-g4-heat-power-efficiency-report/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/Pixel-8-Pro-Tensor-G3-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-06T14:20:00Z",
+            "content": "According to a new report out of Korea, Google Tensor G4 will be adopting a newer packaging method from Samsung which may improve power efficiency and heat management.\r\nFinancial News reports citing … [+1167 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Sources - Broncos OK Russell Wilson to talk to teams before release - ESPN",
+            "description": "The Broncos have given soon-to-be-released quarterback Russell Wilson permission to immediately begin speaking and meeting with other teams in their home cities, sources told ESPN's Adam Schefter.",
+            "url": "https://www.espn.com/nfl/story/_/id/39665336/sources-broncos-ok-russell-wilson-talk-teams-release",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0212%2Fr1290548_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-03-06T14:18:00Z",
+            "content": "Before free agency begins next week, the Broncos have given soon-to-be-released quarterback Russell Wilson permission to immediately begin speaking and meeting with other teams in their home cities, … [+2529 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Jeff Howe",
+            "title": "NFL franchise tag winners and losers: Baker Mayfield, good news for RBs and more - The Athletic",
+            "description": "Mayfield is about to sign a life-changing contract, while Saquon Barkley and Josh Jacobs are about to find out exactly what they are worth.",
+            "url": "https://theathletic.com/5318377/2024/03/06/nfl-franchise-tag-winners-losers-baker-mayfield/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/05140104/NFL-trade-dealine-winners-and-losers.jpg",
+            "publishedAt": "2024-03-06T14:02:11Z",
+            "content": "The NFL kicked off its roster-building season Tuesday with the deadline for teams to use the franchise tag.\r\nEight players received the franchise tag, while one got the transition tag. The deadline h… [+8325 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Kylie Kelce reacts to husband's emotional retirement speech: 'Very, very sweet' - Fox News",
+            "description": "Kylie Kelce, the wife of former Philadelphia Eagles center Jason Kelce, recalled her husband's speech in an interview on Tuesday. There was not a dry eye in the house.",
+            "url": "https://www.foxnews.com/sports/kylie-kelce-reacts-husbands-emotional-retirement-speech-very-very-sweet",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Kylie-Kelce.jpg",
+            "publishedAt": "2024-03-06T13:33:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+2257 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "STEVE PEOPLES, MEG KINNARD",
+            "title": "Nikki Haley will suspend her campaign, sources say - The Associated Press",
+            "description": "Nikki Haley will suspend her presidential campaign. That's according to three people with direct knowledge of her decision. The decision by the former South Carolina governor and U.N. ambassador Wednesday will leave Donald Trump as the last remaining major ca…",
+            "url": "https://apnews.com/article/nikki-haley-republican-trump-super-tuesday-losses-95ab56b68a8eefbbf04ef90f2f00ef29",
+            "urlToImage": "https://dims.apnews.com/dims4/default/8ff4089/2147483647/strip/true/crop/7465x4199+0+389/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0f%2F65%2F527ff8c743b46438919a9022d2ad%2Fe27f66d9a61b43b08d694968dd17ef42",
+            "publishedAt": "2024-03-06T13:32:00Z",
+            "content": "NEW YORK (AP) Nikki Haley will suspend her presidential campaign Wednesday after being soundly defeated across the country on Super Tuesday, according to people familiar with her decision, leaving Do… [+5096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Too Little Ammunition, Too Many Russians: The Harrowing Retreat from Avdiivka - Yahoo! Voices",
+            "description": null,
+            "url": "https://www.yahoo.com/news/too-little-ammunition-too-many-132349711.html",
+            "urlToImage": null,
+            "publishedAt": "2024-03-06T13:23:49Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jack Royston",
+            "title": "Kate Middleton Speculation Grows After Paparazzi Photo - Newsweek",
+            "description": "A new picture of Middleton published by TMZ has not quelled the frenzied atmosphere on social media.",
+            "url": "https://www.newsweek.com/kate-middleton-speculation-paparazzi-photo-twitter-1876373",
+            "urlToImage": "https://d.newsweek.com/en/full/2358036/kate-middleton-easter.jpg",
+            "publishedAt": "2024-03-06T12:56:36Z",
+            "content": "Kate Middleton's absence from royal duties has sparked a frenzy of social media jokes, memes and conspiracy theories, which have not gone away after a picture of her was printed by TMZ.\r\nThe Princess… [+3931 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Gabrielle Fonrouge",
+            "title": "Abercrombie & Fitch beats holiday estimates as sales soar again, helped by higher prices - CNBC",
+            "description": "Abercrombie & Fitch has been on a rollercoaster of growth over the last year and Wall Street will be keen to see if it can sustain the momentum.",
+            "url": "https://www.cnbc.com/2024/03/06/abercrombie-fitch-anf-earnings-q4-2023.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107337252-1700581165137-gettyimages-1793800848-ABERCROMBIE_EARNS.jpeg?v=1700581214&w=1920&h=1080",
+            "publishedAt": "2024-03-06T12:50:30Z",
+            "content": "Abercrombie &amp; Fitch said Wednesday that its holiday-quarter sales jumped 21% and its profit grew thanks to higher prices and lower raw material costs.\r\nThe apparel retailer expects its growth sto… [+4021 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Ryan Dinsdale",
+            "title": "OpenAI Refutes Elon Musk's Lawsuit, Publishes Private Emails - IGN",
+            "description": "ChatGPT creator OpenAI has declared its intention to refute the claims made in Elon Musk's lawsuit against the company, and published what it clamed to be private emails from the tech billionaire as evidence of its points.",
+            "url": "https://www.ign.com/articles/openai-refutes-elon-musks-lawsuit-publishes-private-emails",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/11/06/elonmusktwitterign-1652442448608-1699284446499.jpg?width=1280",
+            "publishedAt": "2024-03-06T12:40:16Z",
+            "content": "ChatGPT creator OpenAI has declared its intention to refute the claims made in Elon Musk's lawsuit against the company, and published what it clamed to be private emails from the tech billionaire as … [+3311 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrew Jeong, Annabelle Timsit, Heidi Levine, Miriam Berger, Niha Masih, Sarah Dadouch, Heba Farouk Mahfouz, Jennifer Hassan, Karen DeYoung",
+            "title": "Latest Israel-Hamas war news and Gaza conflict updates: Cease-fire talks continue - The Washington Post",
+            "description": "The latest round of talks on a deal that would pause fighting and release Hamas-held hostages for Israeli-held Palestinian prisoners remains underway in Cairo.",
+            "url": "https://www.washingtonpost.com/world/2024/03/06/israel-hamas-war-news-gaza-palestine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7D2WX5WHTIQ6S7GX62IXODCGSM_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-03-06T11:54:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Leah Sarnoff, Kelsey Walsh",
+            "title": "Who is Jason Palmer? Biden loses the American Samoa Democratic caucuses to entrepreneur - ABC News",
+            "description": "He calls himself a \"problem solver\" and says the president should be younger.",
+            "url": "https://abcnews.go.com/Politics/jason-palmer-biden-loses-american-samoa-democratic-caucuses/story?id=107832052",
+            "urlToImage": "https://i.abcnewsfe.com/a/ad063c18-c666-4112-b4f3-478c9091c5bd/jason-palmer-rt-lv-240305_1709694358167_hpMain_2_16x9.jpg?w=1600",
+            "publishedAt": "2024-03-06T10:41:15Z",
+            "content": "In a surprising yet politically inconsequential upset on Super Tuesday, U.S. President Joe Biden lost the American Samoa Democratic caucuses to entrepreneur Jason Palmer.\r\nOn Tuesday night, the local… [+5091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": null,
+            "title": "\"Not the flu\": CDC's change in COVID guidance could misrepresent risks of virus, experts warn - Salon",
+            "description": "The CDC has changed its guidelines for isolating with a COVID infection. Experts say this could backfire",
+            "url": "https://www.salon.com/2024/03/06/not-the-flu-cdcs-change-in-guidance-could-misrepresent-risks-of-virus-experts-warn/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/03/passenger_wears_a_mask_while_riding_metro_train_2008859330.jpg",
+            "publishedAt": "2024-03-06T10:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Christopher Cann",
+            "title": "Texas fires: Thousands of cattle killed in Smokehouse Creek blaze - USA TODAY",
+            "description": "Thousands of cattle have been killed by the wildfires that have ravaged over 1 million acres across the Texas Panhandle.",
+            "url": "https://www.usatoday.com/story/news/nation/2024/03/06/texas-fires-panhandle-smokehouse-creek-kills-cattle/72850764007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/01/PWWF/72811574007-ap-dead-texas-cattle-24061741609726.jpg?crop=6349,3573,x0,y330&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-03-06T10:29:05Z",
+            "content": "Thousands of livestock have been killed in the wildfires that've ripped across the Texas Panhandle over the last week, inflicting unprecedented damage upon the largest cattle region in the nation.\r\nO… [+3375 chars]"
+        }
+    ]
+}
